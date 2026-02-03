@@ -19,51 +19,57 @@ Feel free to explore my projects or reach out if you’d like to collaborate �
 
 ---
 
-## 🔓 Open Source Contributions
-
-- [Agenta – Evaluate your LLM Models](https://github.com/Agenta-AI/agenta)
-- [SegmentAnything3D – 3D Segmentation](https://github.com/Pointcept/SegmentAnything3D)
-- [MonoScene – 3D Reconstruction](https://github.com/astra-vision/MonoScene)
-- [WhisperX – Automatic Speech Recognition](https://github.com/m-bain/whisperX)
-- [Naas.ai – Data Engineering Product using LLMs](https://github.com/jupyter-naas/awesome-notebooks)
-
----
-
-## 📦 Python Packages / Modules
-
-- [BoundingBox-Merger](https://pypi.org/project/bbox-merger/)
-
----
-
 ## 🛠️ Skills
 
-### 🔥 Core Expertise
-[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+### Master In
 
-### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,bash,javascript,react,vue,next,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai)](Artifical-Intellignce)
 
-### 🧩 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,express,tensorflow,pytorch)](https://skillicons.dev)
+### Language
 
-### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,dynamodb,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](python)
+[![My Skills](https://skillicons.dev/icons?i=bash)](bash)
+[![My Skills](https://skillicons.dev/icons?i=javascript)](javascript)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](typescript)
 
-### ☁️ Cloud Platforms
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,googlecloud,heroku,netlify,vercel)](https://skillicons.dev)
+### FrameWorks
 
-### ⚙️ DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django)](Django)
+[![My Skills](https://skillicons.dev/icons?i=flask)](flask)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](FastApi)
+[![My Skills](https://skillicons.dev/icons?i=express)](Express)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](Tensorflow)
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](Pytorch)
+[![My Skills](https://skillicons.dev/icons?i=react)](react)
+[![My Skills](https://skillicons.dev/icons?i=vue)](vue)
+[![My Skills](https://skillicons.dev/icons?i=next)](next)
+[![My Skills](https://skillicons.dev/icons?i=nuxt)](nuxt)
 
-### 🖥️ Operating Systems
+
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](MySql)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](Postgres)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](MongoDb)
+[![My Skills](https://skillicons.dev/icons?i=redis)](Redis)
+[![My Skills](https://skillicons.dev/icons?i=dynamodb)](DynamoDB)
+
+### Cloud Services
+
+[![My Skills](https://skillicons.dev/icons?i=aws)](AWS)
+[![My Skills](https://skillicons.dev/icons?i=azure)](Azure)
+[![My Skills](https://skillicons.dev/icons?i=googlecloud)](GoogleCloud)
+[![My Skills](https://skillicons.dev/icons?i=heroku)](Heroku)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](Netlify)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](Vercel)
+
+### Devops
+
+[![My Skills](https://skillicons.dev/icons?i=docker)](Docker)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](Kubernetes)
+
+### OS
+
 [![My Skills](https://skillicons.dev/icons?i=linux,osx)](https://skillicons.dev)
 
 ---
-
-## 📊 GitHub Stats
-
-![Andrew Haray GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewHaray&show_icons=true&theme=transparent)
-
-## 🌐 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewHaray&hide_progress=true)
